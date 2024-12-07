@@ -1,6 +1,8 @@
 # Ten Lemons
 <br>
 
+## [Play in broswer](https://sugarvoid.itch.io/10-lemons?password=game)
+
 ![gameplay](https://github.com/sugarvoid/ten-lemons/blob/master/gameplay.gif)
 <br>
 
